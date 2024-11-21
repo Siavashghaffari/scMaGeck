@@ -10,7 +10,7 @@ This repo contains:
 
 ## input folder
 Should contain:
-1. the main annData which contains the raw counts
+1. the main AnnData which contains the raw counts
 2. the guide RNA AnnData
 3. A csv file which has information about gRNA sequences (the file that we used for cumulus is a good example)
 
