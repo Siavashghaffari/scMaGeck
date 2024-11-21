@@ -1,3 +1,6 @@
+## This script provides helper functions for Barcode QC
+## @author  Siavash Ghaffari
+
 ## Import Libraries
 
 from __future__ import division 

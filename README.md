@@ -20,4 +20,4 @@ Should contain:
 
 
 ## Authors and acknowledgment
-This work was authored by Siavash Ghaffari. For any queries or further information, please contact [ghaffars@gene.com](mailto:ghaffars@gene.com).
+This work was developed by Siavash Ghaffari. For any questions, feedback, or additional information, please feel free to reach out. Your input is highly valued and will help improve and refine this pipeline further.

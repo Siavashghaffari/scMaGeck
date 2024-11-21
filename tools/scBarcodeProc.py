@@ -1,3 +1,6 @@
+## This script provides helper functions for Barcode
+## @author  Siavash Ghaffari
+
 #single cell libraries
 import scanpy as sc
 import anndata

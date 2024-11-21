@@ -1,6 +1,6 @@
 
 #  This script Contains all helper functions necessary for the crop-seq pipeline
-#    Modified by Siavash Ghaffari to be consistent with the crop-seq-pipeline
+#    authored by Siavash Ghaffari to be consistent with the crop-seq-pipeline
 
 
 #single cell libraries
