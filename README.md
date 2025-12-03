@@ -1,4 +1,9 @@
 # scMaGeck
+
+## Overview
+scMaGeck is a computational pipeline for analyzing single-cell CRISPR screening data. It calculates perturbation scores (PS) for each cell and performs linear regression to identify associations between gene perturbations and transcriptomic changes, enabling researchers to uncover gene function at single-cell resolution.
+
+## Repository Contents
 This repo contains:
 1. A python notebook to prepare all the tools for eff_scmageck run: `scMaGeck_EFF_prep.ipynb`
 2. Data conversion file from 10x to Seurat in R to be a proper file to input eff_scmageck run: `data_conversion.R`
